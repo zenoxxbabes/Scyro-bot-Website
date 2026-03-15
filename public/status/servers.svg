@@ -1,0 +1,17 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="serverGrad" x1="0" y1="0" x2="256" y2="256" gradientUnits="userSpaceOnUse">
+<stop offset="0%" stop-color="#a855f7"/>
+<stop offset="100%" stop-color="#d946ef"/>
+</linearGradient>
+</defs>
+<rect x="32" y="48" width="192" height="48" rx="8" stroke="url(#serverGrad)" stroke-width="16" fill="none"/>
+<rect x="32" y="120" width="192" height="48" rx="8" stroke="url(#serverGrad)" stroke-width="16" fill="none"/>
+<rect x="32" y="192" width="192" height="48" rx="8" stroke="url(#serverGrad)" stroke-width="16" fill="none"/>
+<circle cx="70" cy="72" r="6" fill="url(#serverGrad)"/>
+<circle cx="70" cy="144" r="6" fill="url(#serverGrad)"/>
+<circle cx="70" cy="216" r="6" fill="url(#serverGrad)"/>
+<path d="M200 72H160" stroke="url(#serverGrad)" stroke-width="8" stroke-linecap="round"/>
+<path d="M200 144H160" stroke="url(#serverGrad)" stroke-width="8" stroke-linecap="round"/>
+<path d="M200 216H160" stroke="url(#serverGrad)" stroke-width="8" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="userGrad" x1="0" y1="0" x2="256" y2="256" gradientUnits="userSpaceOnUse">
+<stop offset="0%" stop-color="#f97316"/>
+<stop offset="100%" stop-color="#fbbf24"/>
+</linearGradient>
+</defs>
+<path d="M128 120C150.091 120 168 102.091 168 80C168 57.9086 150.091 40 128 40C105.909 40 88 57.9086 88 80C88 102.091 105.909 120 128 120Z" stroke="url(#userGrad)" stroke-width="16" fill="none"/>
+<path d="M64 216V196C64 173.909 81.9086 156 104 156H152C174.091 156 192 173.909 192 196V216" stroke="url(#userGrad)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+<path d="M188 108C203.464 108 216 95.464 216 80C216 64.536 203.464 52 188 52" stroke="url(#userGrad)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
+<path d="M236 216V208C236 185.909 218.091 168 196 168" stroke="url(#userGrad)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
+<path d="M68 108C52.536 108 40 95.464 40 80C40 64.536 52.536 52 68 52" stroke="url(#userGrad)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
+<path d="M20 216V208C20 185.909 37.9086 168 60 168" stroke="url(#userGrad)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" opacity="0.6"/>
+</svg>
